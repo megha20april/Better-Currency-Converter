@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.custom-select__menu-list {
+    scrollbar-width: thin;          /* Firefox */
+    scrollbar-color: rgb(140, 140, 143) #D3D3D3;     /* Firefox */
+  
+    /* For Webkit browsers (Chrome, Safari, Edge) */
+  }
+  
